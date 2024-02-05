@@ -1,5 +1,5 @@
 # Solanalotto
-Project developed for https://github.com/solana-labs/defi-hackathon
+
 
 [Website](https://arrowana.github.io/solanalotto/)
 
@@ -16,7 +16,3 @@ Application:
 - Replace big lotteries
 - Organization fundraiser digitized, low cost and transparent. Think about the school fundraiser lotteries.
 
-## Inspiration
-Examples:
-https://github.com/ppoply/Lottery-smart-contract
-https://github.com/turnyay/solanaroll
